@@ -1,9 +1,3 @@
-<!-- LIVE DEMO -->
-
-## Live Demo
-
-[View Demo](https://whispering-reef-68894.herokuapp.com)
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -14,8 +8,7 @@ A weather api which returns rank ordered or year ordered seasonal and monthly da
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
-- [django-filter](https://django-filter.readthedocs.io/en/stable)
-- [Bootstrap](https://getbootstrap.com/)
+- [django-rest-framework](https://www.django-rest-framework.org/)
 
 <!-- GETTING STARTED -->
 
@@ -111,6 +104,10 @@ Response Body
 
 ## Roadmap
 
+Make another endpoint for year range and month range.
+
+## Issues
+
 See the [open issues](https://github.com/sourcenaman/weather/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
@@ -131,4 +128,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Naman Vashishth - namanvashishth12@gmail.com
 
-Project Link: [https://github.com/sourcenaman/crm](https://github.com/sourcenaman/weather)
+Project Link: [https://github.com/sourcenaman/weather](https://github.com/sourcenaman/weather)
